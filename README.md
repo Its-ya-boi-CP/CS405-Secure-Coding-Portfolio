@@ -21,7 +21,7 @@ Coden Polk's CS 405 portfolio brings together security policy, a presentation, c
 
 The four available coding ZIPs were copied unchanged and given consistent portfolio names: `SQLInjection_Simpler_Source.zip` became `SQL_Injection.zip`; `CS405_M2_BufferOverflow_Final.zip` became `Buffer_Overflow.zip`; `Exceptions_Source.zip` became `Exceptions.zip`; and `CS405_5-2_Encryption_Coding_Coden_Polk.zip` became `Encryption.zip`.
 
-The policy and presentation are preserved as supplied. The Word reflection is formatted from the final course reflection in *Secure Coding Practices Overview*, with a reference to the course textbook.
+The policy is preserved as supplied. The directly downloadable PowerPoint preserves the slide content and omits embedded narration and playback timing to fit GitHub upload limits. The exact original narrated presentation is preserved in `Project-Two/Original-With-Narration` as numbered parts. Download the repository ZIP, extract it, and run `Restore-Presentation.ps1` in that folder to restore and SHA-256 verify the original PowerPoint. The script writes a separate file ending in `_WITH_NARRATION.pptx`. The Word reflection is formatted from the final course reflection in *Secure Coding Practices Overview*, with a reference to the course textbook.
 
 ## Viewing the work
 
